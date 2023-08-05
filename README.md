@@ -1,6 +1,6 @@
 # IGExperiments
 
-Allow you to enable developer options in Instagram!
+Allow you to enable developer options in Instagram! 
 
 When the module is enabled, kill Instagram and long press home button. You will be able go to developer page and sometimes other stuff.
 
