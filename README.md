@@ -24,8 +24,19 @@ First you will need to use [Jadx](https://github.com/skylot/jadx)
 ```
 r2.A0i("is_employee", Boolean.valueOf(C8WQ.A03(userSession)));
 ```
-Double click on the method name, A03 and go at top. You will see a line like this: 
+<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/1.png?raw=true">
+
+Double click on the method name, A03:
+
+<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/2.png?raw=true">
+
+Now go at top, you will see a line like this: 
 ```
 /* renamed from: X.8WQ  reason: invalid class name */
 ```
+<img src="https://github.com/xHookman/IGexperiments/blob/master/readme/3.png?raw=true">
+
+
 You now know the class to hook: X.8WQ!
+
+You can now try if it works by enabling HECKER mode and completing the class name and method name field, click on hook and kill Instagram :)
