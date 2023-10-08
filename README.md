@@ -4,7 +4,7 @@
 
 Enable developer options in Instagram!
 
-
+Original repo: https://github.com/xHookman/IGexperiments
 
 
 ## Installation
